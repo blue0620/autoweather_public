@@ -1,0 +1,2964 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://agrid-d/metbroker/metbroker/schema/metxml.xsd">
+<source id="GD-DR&amp;TR">
+<name lang="en">Global Dataset of DR and TR</name>
+<area nw_lat="90.0" nw_lon="-180.0" se_lat="-90.0" se_lon="180.0"/>
+<region id="12031">
+<name lang="en">30.40_130.140</name>
+<area nw_lat="39.5" nw_lon="130.5" se_lat="30.5" se_lon="139.5"/>
+<station id="19760">
+<name lang="en">latitude=35.5_longitude=139.5</name>
+<place alt="0.0" lat="35.5" lon="139.5"/>
+<operational end="2000/12/31 9:00:00" start="1961/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="20120">
+<name lang="en">latitude=34.5_longitude=139.5</name>
+<place alt="0.0" lat="34.5" lon="139.5"/>
+<operational end="2000/12/31 9:00:00" start="1961/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+<region id="12032">
+<name lang="en">30.40_140.150</name>
+<area nw_lat="39.5" nw_lon="140.5" se_lat="30.5" se_lon="149.5"/>
+<station id="19761">
+<name lang="en">latitude=35.5_longitude=140.5</name>
+<place alt="0.0" lat="35.5" lon="140.5"/>
+<operational end="2000/12/31 9:00:00" start="1961/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="20121">
+<name lang="en">latitude=34.5_longitude=140.5</name>
+<place alt="0.0" lat="34.5" lon="140.5"/>
+<operational end="2000/12/31 9:00:00" start="1961/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+</source>
+<source id="aclima">
+<name lang="en">ACLIMA(Japan)</name>
+<area nw_lat="46.0" nw_lon="122.0" se_lat="20.0" se_lon="146.0"/>
+<region id="11">
+<name lang="en">Saimata</name>
+<area nw_lat="36.150001525878906" nw_lon="139.07333374023438" se_lat="35.9900016784668" se_lon="139.3800048828125"/>
+<station id="47641">
+<name lang="en">Chichibu</name>
+<place alt="232.10000610351562" lat="35.9900016784668" lon="139.07333374023438"/>
+<operational start="1989/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+<region id="12">
+<name lang="en">Chiba</name>
+<area nw_lat="35.73833465576172" nw_lon="139.86500549316406" se_lat="34.98666763305664" se_lon="140.85667419433594"/>
+<station id="47648">
+<name lang="en">Choshi</name>
+<place alt="20.100000381469727" lat="35.73833465576172" lon="140.85667419433594"/>
+<operational start="1989/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="47672">
+<name lang="en">Tateyama</name>
+<place alt="5.800000190734863" lat="34.98666763305664" lon="139.86500549316406"/>
+<operational start="1989/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="47674">
+<name lang="en">Katsuura</name>
+<place alt="11.899999618530273" lat="35.150001525878906" lon="140.31166076660156"/>
+<operational start="1989/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="47682">
+<name lang="en">Chiba</name>
+<place alt="3.5" lat="35.60166549682617" lon="140.10333251953125"/>
+<operational start="1989/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+<region id="13">
+<name lang="en">Tokyo</name>
+<area nw_lat="35.689998626708984" nw_lon="139.36166381835938" se_lat="27.09166717529297" se_lon="142.19000244140625"/>
+<station id="47662">
+<name lang="en">Tokyo</name>
+<place alt="6.099999904632568" lat="35.689998626708984" lon="139.75999450683594"/>
+<operational start="1989/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="47675">
+<name lang="en">Oshima</name>
+<place alt="74.0" lat="34.74833297729492" lon="139.36166381835938"/>
+<operational start="1989/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="47677">
+<name lang="en">Miyakejima</name>
+<place alt="36.400001525878906" lat="34.12333297729492" lon="139.52166748046875"/>
+<operational start="1989/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+<region id="14">
+<name lang="en">Kanagawa</name>
+<area nw_lat="NaN" nw_lon="NaN" se_lat="NaN" se_lon="NaN"/>
+<station id="47670">
+<name lang="en">Yokohama</name>
+<place alt="39.099998474121094" lat="35.438331604003906" lon="139.65167236328125"/>
+<operational start="1989/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+<region id="22">
+<name lang="en">Shizuoka</name>
+<area nw_lat="35.11333465576172" nw_lon="137.7183380126953" se_lat="34.60333251953125" se_lon="139.09165954589844"/>
+<station id="47668">
+<name lang="en">Ajiro</name>
+<place alt="66.9000015258789" lat="35.04499816894531" lon="139.09165954589844"/>
+<operational start="1989/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+</source>
+<source id="amedas">
+<name lang="en">AmeDAS(Japan)</name>
+<area nw_lat="46.0" nw_lon="122.0" se_lat="20.0" se_lon="146.0"/>
+<region id="08">
+<name lang="en">Ibarakiken</name>
+<area nw_lat="36.86833190917969" nw_lon="139.71665954589844" se_lat="35.88999938964844" se_lon="140.77166748046875"/>
+<station id="40391">
+<name lang="en">Edosaki</name>
+<place alt="25.0" lat="35.959999084472656" lon="140.32000732421875"/>
+<operational start="1976/03/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="40406">
+<name lang="en">Kashima</name>
+<place alt="37.0" lat="35.96333312988281" lon="140.62167358398438"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="40426">
+<name lang="en">Ryugasaki</name>
+<place alt="4.0" lat="35.88999938964844" lon="140.211669921875"/>
+<operational start="1976/03/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+<region id="11">
+<name lang="en">Saitamaken</name>
+<area nw_lat="36.150001525878906" nw_lon="138.92333984375" se_lat="35.77333450317383" se_lon="139.7566680908203"/>
+<station id="43156">
+<name lang="en">Chichibu</name>
+<place alt="232.0" lat="35.9900016784668" lon="139.07333374023438"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="43157">
+<name lang="en">Urayama</name>
+<place alt="400.0" lat="35.91999816894531" lon="139.07000732421875"/>
+<operational start="1977/06/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="43162">
+<name lang="en">Tokigawa</name>
+<place alt="295.0" lat="35.9900016784668" lon="139.2066650390625"/>
+<operational start="2000/04/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="43171">
+<name lang="en">Hatoyama</name>
+<place alt="44.0" lat="35.98500061035156" lon="139.3350067138672"/>
+<operational start="1977/12/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="43231">
+<name lang="en">Hanno</name>
+<place alt="84.0" lat="35.83833312988281" lon="139.32167053222656"/>
+<operational start="1976/04/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="43241">
+<name lang="en">Saitama</name>
+<place alt="8.0" lat="35.875" lon="139.586669921875"/>
+<operational start="1976/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="43256">
+<name lang="en">Koshigaya</name>
+<place alt="3.0" lat="35.88333511352539" lon="139.7566680908203"/>
+<operational start="1976/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="43266">
+<name lang="en">Tokorozawa</name>
+<place alt="119.0" lat="35.77333450317383" lon="139.413330078125"/>
+<operational start="1976/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+<region id="12">
+<name lang="en">Chibaken</name>
+<area nw_lat="35.90833282470703" nw_lon="139.836669921875" se_lat="34.98666763305664" se_lon="140.85667419433594"/>
+<station id="45036">
+<name lang="en">-- should be update</name>
+<place alt="7.0" lat="35.90833282470703" lon="140.4949951171875"/>
+<operational end="1999/08/31 0:00:00" start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45056">
+<name lang="en">Abiko</name>
+<place alt="20.0" lat="35.87666702270508" lon="140.02499389648438"/>
+<operational end="2010/02/28 0:00:00" start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45061">
+<name lang="en">Abiko</name>
+<place alt="20.0" lat="35.86333465576172" lon="140.11000061035156"/>
+<operational start="2010/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45081">
+<name lang="en">Katori</name>
+<place alt="37.0" lat="35.858333587646484" lon="140.5016632080078"/>
+<operational start="1999/10/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45086">
+<name lang="en">Tonosho</name>
+<place alt="52.0" lat="35.8216667175293" lon="140.68499755859375"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45101">
+<name lang="en">-- should be update</name>
+<place alt="24.0" lat="35.72833251953125" lon="139.99667358398438"/>
+<operational end="1999/08/31 0:00:00" start="1978/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45106">
+<name lang="en">Funabashi</name>
+<place alt="28.0" lat="35.711666107177734" lon="140.0433349609375"/>
+<operational start="1999/08/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45116">
+<name lang="en">Sakura</name>
+<place alt="5.0" lat="35.72833251953125" lon="140.211669921875"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45121">
+<name lang="en">Narita</name>
+<place alt="41.0" lat="35.76333236694336" lon="140.38499450683594"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45146">
+<name lang="en">-- should be update</name>
+<place alt="27.0" lat="35.724998474121094" lon="140.8433380126953"/>
+<operational end="1986/08/31 0:00:00" start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45147">
+<name lang="en">Choshi</name>
+<place alt="20.0" lat="35.73833465576172" lon="140.85667419433594"/>
+<operational start="1986/08/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45181">
+<name lang="en">Yokoshibahikari</name>
+<place alt="6.0" lat="35.65666580200195" lon="140.47999572753906"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45211">
+<name lang="en">Chiba</name>
+<place alt="16.0" lat="35.59333419799805" lon="140.1199951171875"/>
+<operational end="1981/05/31 0:00:00" start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45212">
+<name lang="en">Chiba</name>
+<place alt="4.0" lat="35.60166549682617" lon="140.10333251953125"/>
+<operational start="1981/06/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45261">
+<name lang="en">Mobara</name>
+<place alt="9.0" lat="35.41666793823242" lon="140.30999755859375"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45281">
+<name lang="en">Kisarazu</name>
+<place alt="5.0" lat="35.375" lon="139.9149932861328"/>
+<operational end="2006/09/30 0:00:00" start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45282">
+<name lang="en">Kisarazu</name>
+<place alt="60.0" lat="35.36166763305664" lon="139.94000244140625"/>
+<operational start="2006/09/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45291">
+<name lang="en">Ushiku</name>
+<place alt="30.0" lat="35.39666748046875" lon="140.14833068847656"/>
+<operational start="1978/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45326">
+<name lang="en">Sakahata</name>
+<place alt="120.0" lat="35.23500061035156" lon="140.09832763671875"/>
+<operational start="1978/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45331">
+<name lang="en">Ootaki</name>
+<place alt="70.0" lat="35.25166702270508" lon="140.21499633789062"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45346">
+<name lang="en">Kyonan</name>
+<place alt="10.0" lat="35.121665954589844" lon="139.836669921875"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45361">
+<name lang="en">Kamogawa</name>
+<place alt="5.0" lat="35.11166763305664" lon="140.10000610351562"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45371">
+<name lang="en">Katsuura</name>
+<place alt="12.0" lat="35.150001525878906" lon="140.31166076660156"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="45401">
+<name lang="en">Tateyama</name>
+<place alt="6.0" lat="34.98666763305664" lon="139.86500549316406"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+<region id="13">
+<name lang="en">Toukyouto</name>
+<area nw_lat="35.79166793823242" nw_lon="139.0500030517578" se_lat="26.635000228881836" se_lon="142.19000244140625"/>
+<station id="44046">
+<name lang="en">Ogochi</name>
+<place alt="530.0" lat="35.79166793823242" lon="139.0500030517578"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44051">
+<name lang="en">Ozawa</name>
+<place alt="420.0" lat="35.73500061035156" lon="139.1233367919922"/>
+<operational start="1977/08/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44056">
+<name lang="en">Ome</name>
+<place alt="155.0" lat="35.788333892822266" lon="139.31166076660156"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44076">
+<name lang="en">Nerima</name>
+<place alt="38.0" lat="35.73500061035156" lon="139.6683349609375"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44111">
+<name lang="en">-- should be update</name>
+<place alt="121.0" lat="35.66166687011719" lon="139.32167053222656"/>
+<operational end="1983/09/30 0:00:00" start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44112">
+<name lang="en">Hachioji</name>
+<place alt="123.0" lat="35.66666793823242" lon="139.31666564941406"/>
+<operational start="1983/10/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44116">
+<name lang="en">Fuchu</name>
+<place alt="59.0" lat="35.68333435058594" lon="139.48167419433594"/>
+<operational start="1976/12/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44121">
+<name lang="en">-- should be update</name>
+<place alt="41.0" lat="35.66666793823242" lon="139.53334045410156"/>
+<operational end="1976/12/31 0:00:00" start="1976/01/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44126">
+<name lang="en">Setagaya</name>
+<place alt="35.0" lat="35.62666702270508" lon="139.6199951171875"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44131">
+<name lang="en">Tokyo</name>
+<place alt="6.0" lat="35.689998626708984" lon="139.75999450683594"/>
+<operational end="2007/11/30 0:00:00" start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44132">
+<name lang="en">Tokyo</name>
+<place alt="6.0" lat="35.689998626708984" lon="139.75999450683594"/>
+<operational start="2007/11/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44136">
+<name lang="en">Edogawa-rinkai</name>
+<place alt="5.0" lat="35.63833236694336" lon="139.8633270263672"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44166">
+<name lang="en">Haneda</name>
+<place alt="6.0" lat="35.5533332824707" lon="139.77999877929688"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44171">
+<name lang="en">Oshima</name>
+<place alt="190.0" lat="34.76333236694336" lon="139.3766632080078"/>
+<operational end="1991/12/31 0:00:00" start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44172">
+<name lang="en">Oshima</name>
+<place alt="74.0" lat="34.74833297729492" lon="139.36166381835938"/>
+<operational start="1991/12/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44173">
+<name lang="en">Oshimakitanoyama</name>
+<place alt="38.0" lat="34.78166580200195" lon="139.36000061035156"/>
+<operational start="2003/08/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44206">
+<name lang="en">Niijima</name>
+<place alt="9.0" lat="34.37333297729492" lon="139.2516632080078"/>
+<operational end="2008/11/30 0:00:00" start="1976/12/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44207">
+<name lang="en">Niijima</name>
+<place alt="29.0" lat="34.36833190917969" lon="139.26832580566406"/>
+<operational start="2003/08/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44211">
+<name lang="en">Kozushima</name>
+<place alt="28.0" lat="34.20500183105469" lon="139.13333129882812"/>
+<operational end="2006/03/31 0:00:00" start="2000/07/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44216">
+<name lang="en">Kozushima</name>
+<place alt="138.0" lat="34.188331604003906" lon="139.13333129882812"/>
+<operational start="2003/08/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44226">
+<name lang="en">Miyakejima</name>
+<place alt="36.0" lat="34.12333297729492" lon="139.52166748046875"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44227">
+<name lang="en">Miyakejimaako</name>
+<place alt="30.0" lat="34.08000183105469" lon="139.48167419433594"/>
+<operational end="2008/02/29 0:00:00" start="2000/12/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44228">
+<name lang="en">Miyaketsubota</name>
+<place alt="20.0" lat="34.073333740234375" lon="139.55999755859375"/>
+<operational start="2000/09/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="44229">
+<name lang="en">Miyakeizu</name>
+<place alt="50.0" lat="34.119998931884766" lon="139.50332641601562"/>
+<operational end="2007/07/31 0:00:00" start="2001/07/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+<region id="14">
+<name lang="en">Kanagawaken</name>
+<area nw_lat="35.61333465576172" nw_lon="139.0416717529297" se_lat="35.1783332824707" se_lon="139.65167236328125"/>
+<station id="46001">
+<name lang="en">Sagamiko</name>
+<place alt="188.0" lat="35.61333465576172" lon="139.19332885742188"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="46046">
+<name lang="en">Sagamiharachuo</name>
+<place alt="149.0" lat="35.5716667175293" lon="139.3699951171875"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="46061">
+<name lang="en">Hiyoshi</name>
+<place alt="57.0" lat="35.551666259765625" lon="139.64999389648438"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="46076">
+<name lang="en">Tanzawako</name>
+<place alt="330.0" lat="35.40999984741211" lon="139.0433349609375"/>
+<operational start="1976/05/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="46091">
+<name lang="en">Ebina</name>
+<place alt="18.0" lat="35.43333435058594" lon="139.3866729736328"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="46106">
+<name lang="en">Yokohama</name>
+<place alt="39.0" lat="35.438331604003906" lon="139.65167236328125"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="46136">
+<name lang="en">Hiratsuka</name>
+<place alt="20.0" lat="35.345001220703125" lon="139.30499267578125"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="46141">
+<name lang="en">Tsujido</name>
+<place alt="5.0" lat="35.31999969482422" lon="139.4499969482422"/>
+<operational start="1992/02/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="46161">
+<name lang="en">Hakone</name>
+<place alt="855.0" lat="35.2216682434082" lon="139.0416717529297"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="46166">
+<name lang="en">Odawara</name>
+<place alt="14.0" lat="35.276668548583984" lon="139.15499877929688"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="46181">
+<name lang="en">-- should be update</name>
+<place alt="60.0" lat="35.29666519165039" lon="139.48333740234375"/>
+<operational end="1992/02/29 0:00:00" start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="46211">
+<name lang="en">Miura</name>
+<place alt="42.0" lat="35.1783332824707" lon="139.6300048828125"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+<region id="19">
+<name lang="en">Yamanashiken</name>
+<area nw_lat="35.86166763305664" nw_lon="138.28334045410156" se_lat="35.288333892822266" se_lon="139.1133270263672"/>
+<station id="49171">
+<name lang="en">Uenohara</name>
+<place alt="251.0" lat="35.621665954589844" lon="139.1133270263672"/>
+<operational start="1977/07/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+<region id="22">
+<name lang="en">Shizuokaken</name>
+<area nw_lat="35.36000061035156" nw_lon="137.55667114257812" se_lat="34.60333251953125" se_lon="139.09165954589844"/>
+<station id="50281">
+<name lang="en">Ajiro</name>
+<place alt="67.0" lat="35.04499816894531" lon="139.09165954589844"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="50427">
+<name lang="en">Amagisan</name>
+<place alt="1070.0" lat="34.871665954589844" lon="139.02333068847656"/>
+<operational start="1976/04/01 0:00:00"/>
+<elements>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="50506">
+<name lang="en">Inatori</name>
+<place alt="130.0" lat="34.78166580200195" lon="139.04833984375"/>
+<operational start="1976/01/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+</source>
+<source id="kanagawa">
+<name lang="en">Kanagawa Prefecture Ag. Research Station (Japan)</name>
+<area nw_lat="35.70000076293945" nw_lon="138.8000030517578" se_lat="35.099998474121094" se_lon="140.39999389648438"/>
+<station id="01">
+<name lang="en">Ag. Res. Inst. Representative Observation Station</name>
+<place alt="64.0" lat="35.34185791015625" lon="139.2874298095703"/>
+<operational start="1998/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="soil temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="02">
+<name lang="en">Ag. Res. Inst. Insect Breeding Plantation</name>
+<place alt="64.0" lat="35.34185791015625" lon="139.2874298095703"/>
+<operational start="1998/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="soil temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="03">
+<name lang="en">Ag. Res. Inst. Common Crop Field</name>
+<place alt="64.0" lat="35.34185791015625" lon="139.2874298095703"/>
+<operational start="1998/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="soil temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="04">
+<name lang="en">Ag. Res. Inst. Orchard</name>
+<place alt="64.0" lat="35.34185791015625" lon="139.2874298095703"/>
+<operational start="1998/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="soil temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="05">
+<name lang="en">Ag. Res. Inst. Greening Trees Nursery</name>
+<place alt="64.0" lat="35.34185791015625" lon="139.2874298095703"/>
+<operational start="1998/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="soil temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="06">
+<name lang="en">Ag. Res. Inst. Nebukawa Experiment Station</name>
+<place alt="28.0" lat="35.199832916259766" lon="140.3746337890625"/>
+<operational start="1998/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="soil temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="07">
+<name lang="en">Ag. Res. Inst. Tsukui Experiment Station</name>
+<place alt="263.0" lat="35.573307037353516" lon="139.2344970703125"/>
+<operational start="1998/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="soil temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="08">
+<name lang="en">Ag. Res. Inst. Miura Experiment Station</name>
+<place alt="8.0" lat="35.18147277832031" lon="139.640380859375"/>
+<operational start="1998/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="soil temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="09">
+<name lang="en">Ag. Res. Inst. Rice Field</name>
+<place alt="9.0" lat="35.35526657104492" lon="139.32020568847656"/>
+<operational start="1998/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="soil temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="10">
+<name lang="en">Natural Environment Conservation Center</name>
+<place alt="116.0" lat="35.44204330444336" lon="139.29412841796875"/>
+<operational start="1998/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="soil temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="11">
+<name lang="en">Ofuna Botanical Garden</name>
+<place alt="13.0" lat="35.344482421875" lon="139.52220153808594"/>
+<operational start="1998/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="soil temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="12">
+<name lang="en">Livestock Industry Research Institute</name>
+<place alt="19.0" lat="35.40669250488281" lon="139.4031219482422"/>
+<operational start="1998/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="soil temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="13">
+<name lang="en">Onoyama Dairy Farm</name>
+<place alt="30.0" lat="35.379756927490234" lon="139.60906982421875"/>
+<operational start="1998/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="14">
+<name lang="en">Fisheries Research Institute</name>
+<place alt="123.0" lat="35.57243347167969" lon="139.3233642578125"/>
+<operational start="1998/04/01 0:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="radiation">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="humidity">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="soil temperature">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+<element id="bright sunlight">
+<duration id="hourly"/>
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</source>
+<source id="noaa">
+<name lang="en">NOAA/WMO</name>
+<area nw_lat="90.0" nw_lon="-180.0" se_lat="-90.0" se_lon="180.0"/>
+<region id="JA">
+<name lang="en">JAPAN</name>
+<area nw_lat="45.45000076293945" nw_lon="122.98300170898438" se_lat="24.066999435424805" se_lon="153.98300170898438"/>
+<station id="476410-99999">
+<name lang="en">CHICHIBU</name>
+<place alt="234.0" lat="35.983001708984375" lon="139.06700134277344"/>
+<operational start="1952/12/31 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476420-43313">
+<name lang="en">YOKOTA (JASDF/USAF)</name>
+<place alt="139.0" lat="35.75" lon="139.35000610351562"/>
+<operational end="1999/12/31 0:00:00" start="1998/12/31 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476420-99999">
+<name lang="en">YOKOTA (JASDF/USAF)</name>
+<place alt="139.0" lat="35.75" lon="139.35000610351562"/>
+<operational start="1947/10/31 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476430-99999">
+<name lang="en">IRUMA AB</name>
+<place alt="93.0" lat="35.83300018310547" lon="139.41700744628906"/>
+<operational start="1946/09/29 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476480-99999">
+<name lang="en">CHOSHI</name>
+<place alt="28.0" lat="35.733001708984375" lon="140.85000610351562"/>
+<operational start="1952/12/30 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476600-99999">
+<name lang="en">TACHIKAWA AB</name>
+<place alt="98.0" lat="35.70000076293945" lon="139.39999389648438"/>
+<operational start="1945/11/14 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476610-43321">
+<name lang="en">KISARAZU</name>
+<place alt="6.099999904632568" lat="35.382999420166016" lon="139.91700744628906"/>
+<operational end="1999/12/28 0:00:00" start="1973/01/03 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476610-99999">
+<name lang="en">KISARAZU (JGSDF)</name>
+<place alt="6.099999904632568" lat="35.400001525878906" lon="139.91700744628906"/>
+<operational start="2000/01/03 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476620-99999">
+<name lang="en">TOKYO</name>
+<place alt="36.0" lat="35.68299865722656" lon="139.76699829101562"/>
+<operational start="1952/12/30 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476680-99999">
+<name lang="en">AJIRO</name>
+<place alt="68.0" lat="35.04999923706055" lon="139.10000610351562"/>
+<operational start="1952/12/31 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476700-99999">
+<name lang="en">YOKOHAMA</name>
+<place alt="42.0" lat="35.43299865722656" lon="139.64999389648438"/>
+<operational start="1972/12/31 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476710-99999">
+<name lang="en">TOKYO INTERNATIONAL</name>
+<place alt="9.0" lat="35.54999923706055" lon="139.7830047607422"/>
+<operational start="1946/09/10 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476713-99999">
+<name lang="en">ICHIGAYA</name>
+<place alt="31.0" lat="35.68299865722656" lon="139.7169952392578"/>
+<operational start="1990/09/28 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476720-99999">
+<name lang="en">TATEYAMA</name>
+<place alt="7.0" lat="34.983001708984375" lon="139.86700439453125"/>
+<operational start="1972/12/31 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476740-99999">
+<name lang="en">KATSUURA</name>
+<place alt="13.0" lat="35.150001525878906" lon="140.31700134277344"/>
+<operational start="1952/12/31 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476750-99999">
+<name lang="en">OSHIMA</name>
+<place alt="79.0" lat="34.75" lon="139.38299560546875"/>
+<operational start="1952/12/30 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476760-99999">
+<name lang="en">NIIJIMA ISLAND</name>
+<place alt="9.0" lat="34.367000579833984" lon="139.25"/>
+<operational end="1989/09/19 0:00:00" start="1952/12/31 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476770-99999">
+<name lang="en">MIYAKEJIMA</name>
+<place alt="37.0" lat="34.117000579833984" lon="139.51699829101562"/>
+<operational start="1952/12/31 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476790-99999">
+<name lang="en">ATSUGI NAS</name>
+<place alt="65.0" lat="35.45000076293945" lon="139.4499969482422"/>
+<operational start="1945/09/01 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476800-99999">
+<name lang="en">ZAMA AIRFIELD</name>
+<place alt="112.0" lat="35.516998291015625" lon="139.39999389648438"/>
+<operational start="1954/12/14 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476820-99999">
+<name lang="en">CHIBA</name>
+<place alt="19.0" lat="35.599998474121094" lon="140.10000610351562"/>
+<operational start="1977/09/18 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476830-99999">
+<name lang="en">CHOFU AIRPORT</name>
+<place alt="45.0" lat="35.66699981689453" lon="139.5330047607422"/>
+<operational start="1954/12/14 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476860-99999">
+<name lang="en">NEW TOKYO INTERNATI</name>
+<place alt="44.0" lat="35.766998291015625" lon="140.38299560546875"/>
+<operational start="1978/05/18 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476870-99999">
+<name lang="en">TOKYO HELIPORT</name>
+<place alt="8.0" lat="35.632999420166016" lon="139.83299255371094"/>
+<operational start="1973/05/28 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476880-99999">
+<name lang="en">TATEYAMA AB</name>
+<place alt="6.0" lat="34.983001708984375" lon="139.83299255371094"/>
+<operational start="1972/12/31 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="476960-43323">
+<name lang="en">YOKOSUKA</name>
+<place alt="53.0" lat="35.28300094604492" lon="139.66700744628906"/>
+<operational start="1973/01/10 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="477270-99999">
+<name lang="en">SHIMOFUSA AB</name>
+<place alt="33.0" lat="35.79999923706055" lon="140.01699829101562"/>
+<operational start="1972/12/31 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="477350-99999">
+<name lang="en">OSHIMA AIRPORT</name>
+<place alt="41.0" lat="34.78300094604492" lon="139.36700439453125"/>
+<operational start="1972/12/31 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="477370-99999">
+<name lang="en">MIYAKEJIMA AIRPORT</name>
+<place alt="23.0" lat="34.06700134277344" lon="139.56700134277344"/>
+<operational end="2000/09/04 0:00:00" start="1972/12/31 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="479995-99999">
+<name lang="en">ICHIKAWA          &amp;</name>
+<place alt="31.0" lat="35.68299865722656" lon="139.73300170898438"/>
+<operational end="1990/06/20 0:00:00" start="1977/06/01 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="695314-99999">
+<name lang="en">ATSUGI (NPMOD)</name>
+<place alt="63.0" lat="35.45000076293945" lon="139.4499969482422"/>
+<operational end="2000/03/15 0:00:00" start="2000/03/14 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="999999-43309">
+<name lang="en">IRUMA</name>
+<place alt="93.9000015258789" lat="35.83300018310547" lon="139.41700744628906"/>
+<operational end="1960/12/31 0:00:00" start="1948/12/30 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="999999-43313">
+<name lang="en">FUSSA</name>
+<place alt="139.0" lat="35.75" lon="139.35000610351562"/>
+<operational end="1968/03/31 0:00:00" start="1948/12/30 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="999999-43320">
+<name lang="en">OPPAMA</name>
+<place alt="7.900000095367432" lat="35.31700134277344" lon="139.64999389648438"/>
+<operational end="1960/06/24 0:00:00" start="1951/06/29 14:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="999999-43321">
+<name lang="en">KISARAZU</name>
+<place alt="6.099999904632568" lat="35.382999420166016" lon="139.91700744628906"/>
+<operational end="1959/03/31 0:00:00" start="1952/07/24 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="999999-43323">
+<name lang="en">YOKOSUKA</name>
+<place alt="53.0" lat="35.28300094604492" lon="139.66700744628906"/>
+<operational end="1976/12/31 0:00:00" start="1953/02/27 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+<station id="999999-43325">
+<name lang="en">KASTNER AAF</name>
+<place alt="107.0" lat="35.516998291015625" lon="139.39999389648438"/>
+<operational end="1970/12/31 0:00:00" start="1954/12/30 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+<region id="US">
+<name lang="en">UNITED STATES</name>
+<area nw_lat="78.13300323486328" nw_lon="-178.7989959716797" se_lat="-60.483001708984375" se_lon="179.58299255371094"/>
+<station id="992270-99999">
+<name lang="en">ENVIRONM BUOY 21003</name>
+<place alt="0.0" lat="34.70000076293945" lon="139.5"/>
+<operational end="1987/07/15 0:00:00" start="1983/08/19 15:00:00"/>
+<elements>
+<element id="air temperature">
+<duration id="daily"/>
+</element>
+<element id="rain">
+<duration id="daily"/>
+</element>
+<element id="wind">
+<duration id="daily"/>
+</element>
+</elements>
+</station>
+</region>
+</source>
+</stations>
